@@ -1,0 +1,9 @@
+{
+  // موقعٌ ساكن بلا شيفرة خادم: Cloudflare يخدم ما في public مباشرةً.
+  // لا أمر بناء — index.html ملفٌّ واحد مكتملٌ بنفسه.
+  "name": "coderoot",
+  "compatibility_date": "2026-10-22",
+  "assets": {
+    "directory": "./public"
+  }
+}
